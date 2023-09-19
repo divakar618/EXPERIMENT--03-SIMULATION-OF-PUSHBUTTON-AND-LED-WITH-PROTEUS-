@@ -107,7 +107,7 @@ int main(void)
 
 ## Output screen shots of proteus  :
 ![image](https://github.com/divakar618/EXPERIMENT--03-SIMULATION-OF-PUSHBUTTON-AND-LED-WITH-PROTEUS-/assets/121932143/f44a8ab5-dfb3-4900-a34a-15ad39039115)
-![image](abc.jpg)
+
  
  
  
